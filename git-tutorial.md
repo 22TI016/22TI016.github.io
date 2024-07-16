@@ -34,6 +34,68 @@
 
 ## 修正系
 
+**git commit amend --no-edit**
 
+コミットの修正
 
-**
+**git checkout**
+
+削除されたファイルを復旧や過去コミットの復元など(元に戻す変更がstaging area/index内にある場合)
+
+**git reset**
+
+コミットのリセット
+
+**git revent**
+
+「コミットの変更を打ち消す」コミット
+
+**git rm**
+
+ファイルとindex情報の削除
+
+## リモート系
+
+**git clone**
+
+レポジトリをコピー
+
+**git pull**
+
+リモートレポジトリの同期
+
+**git push**
+
+変更をアップロードする
+
+**git request-pull**
+
+プルリクエスト：変更依頼
+
+**git remote**
+
+リモートレポジトリの設定
+
+## ブランチ系
+
+**git branch**
+
+ブランチの作成
+
+**git checkout**
+
+ブランチの切り替え
+
+**git merge**
+
+ブランチの統合
+
+    --ff-only:fast forward only.変更のない統合先ブランチにマージ
+
+**git clone**
+
+レポジトリをコピー
+
+**git push**
+
+変更をアップロードする
