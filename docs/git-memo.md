@@ -6,7 +6,14 @@ permalink: /docs/git-memo
 
 # ソフトウェア工学 2024
 
-講義で学んだことをmarkdown形式でまとめる。
+gitのメモ
 
 ## git
-gitと
+
+gitとは...
+
+## 基本コマンド
+
+git commit
+
+git push
