@@ -9,4 +9,4 @@ permalink: /docs/git-memo
 講義で学んだことをmarkdown形式でまとめる。
 
 ## git
-gitとは
+gitと
